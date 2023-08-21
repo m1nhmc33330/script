@@ -1,0 +1,197 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Fe bypass by m1 team", "Ocean")
+    -- MAIN
+    local Main = Window:NewTab("Main")
+    local MainSection = Main:NewSection("Main")
+
+
+    MainSection:NewButton("dual rb sword", "make u like ninja but not", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/dual%20rp%20sword"))();
+    end)
+
+    MainSection:NewButton("sword script", "slicer", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/sword%20script"))()
+    end)
+   
+    MainSection:NewButton("john doe", "it just v1", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/john%20doe"))()
+    end)
+
+    MainSection:NewButton("john doe v2", "here it your", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/john%20doe%20v2"))()
+    end)
+
+    MainSection:NewButton("katana", "like smaurai", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/katana"))()
+    end)
+
+    MainSection:NewButton("sword", "like smaurai", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/sword%20script"))()
+    end)
+
+    MainSection:NewButton("katana", "like smaurai", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/katana"))()
+    end)
+
+    MainSection:NewButton("spider bot", "like smaurai", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/spider%20bot"))()
+    end)
+
+    MainSection:NewButton("lua hammer", "like ban hammer but not", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/lua%20hammer"))()
+    end)
+
+    MainSection:NewButton("lost hope scythe", "make u like ded", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/lost%20hope%20scythe"))()
+    end)
+
+    MainSection:NewButton("best x man", "idk what is it", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/best%20x%20man"))()
+    end)
+
+    MainSection:NewButton("greninja", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/greninja"))()
+    end)
+
+    MainSection:NewButton("blue sword", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/blue%20sword"))()
+    end)
+
+    MainSection:NewButton("red scythe", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/red%20scythe"))()
+    end)
+
+    MainSection:NewButton("master hand", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/master%20hand"))()
+    end)
+
+    MainSection:NewButton("awp", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/awp"))()
+    end)
+
+    MainSection:NewButton("m4a1", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/m4a1"))()
+    end)
+
+    MainSection:NewButton("epic sword", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/epic%20sword"))()
+    end)
+
+    MainSection:NewButton("dev uzi", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/dev%20uzi"))()
+    end)
+
+    MainSection:NewButton("parkour", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/parkour"))()
+    end)
+
+    MainSection:NewButton("glock 17", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/glock%2017"))()
+    end)
+
+    MainSection:NewButton("grab knife", "no more decription", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/grab%20knife"))()
+    end)
+
+    MainSection:NewButton("bad wather", "not fe lol", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/bad%20weather"))()
+    end)
+
+    MainSection:NewButton("ban hammer", "this is not fe", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/ban%20hammer"))()
+    end)
+
+    MainSection:NewButton("spy knife", "invisible is not fe", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/spy%20knife"))()
+    end)
+
+    --Admin
+    local Admin = Window:NewTab("Admin")
+    local AdminSection = Admin:NewSection("Admin")
+
+    AdminSection:NewButton("inf yiedd", "admin", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/inf%20yield"))()
+    end)
+
+    AdminSection:NewButton("nameless admin", "pro ver of inf yield", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/nameless%20admin"))()
+    end)
+
+    AdminSection:NewButton("admin gui", "admin gui like troll", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/admin%20gui"))()
+    end)
+
+    --Other
+    local OtherScript = Window:NewTab("OtherScript")
+    local OtherScriptSection = OtherScript:NewSection("OtherScript")
+
+    OtherScriptSection:NewButton("aimbot", "yea it aimbot", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/RedWirePlatinumTwo/RobloxScripts/main/Aimbot.lua"))()
+    end)
+
+    OtherScriptSection:NewButton("clickfling", "yea it fling", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/clickfling"))()
+    end)
+        
+    OtherScriptSection:NewButton("clone but not fe", "lol", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/clone%20but%20not%20fe"))()
+    end)
+
+    OtherScriptSection:NewButton("shader for beautiful", "that from dark eccentric", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/dark%20eccentric%20shader"))()
+    end)
+
+    OtherScriptSection:NewButton("domain x script hub", "not better than orca hub", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/domain%20x"))()
+    end)
+
+    OtherScriptSection:NewButton("orca hub", "here your it your", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/orca%20hub"))()
+    end)
+
+    OtherScriptSection:NewButton("parkour script for you if you play it", "i not creater of this", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/parkour%20script"))()
+    end)
+
+    OtherScriptSection:NewButton("kat script", "not me creater of this too", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/kat%20script"))()
+    end)
+
+    OtherScriptSection:NewButton("antilag for lagger", "that not mine too", function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/antilag"))()
+    end)
+
+    OtherScriptSection:NewButton("r6 to r15 that not fe", "it a clone", function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/r6%20to%20r15%20that%20not%20fe"))()
+    end)
+
+    OtherScriptSection:NewButton("r6 to r15 fe", "you cant use your script", function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/r6%20to%20r15"))()
+    end)
+    -- unfe script
+    local unfescript = Window:NewTab("unfescript")
+    local unfescriptsection = unfescript:NewSection("unfescript")
+
+    unfescriptsection:NewButton("helicopter", "you know it unfe", function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/helicopter"))()
+    end)
+
+    unfescriptsection:NewButton("nasa rocket", "unfescript", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/nasa%20rocket"))()
+    end)
+
+    unfescriptsection:NewButton("only that lol", "nothing here", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/m1nhmc33330/script/main/bhop%20script"))()
+    end)
+
+    --game that can script
+    local anygame = Window:NewTab("anygame")
+    local anygamesection = anygame:NewSection("anygame")
+
+    anygamesection:NewButton("blox fruit", "why not", function()
+        loadstring(game:HttpGet(https://raw.githubusercontent.com/m1nhmc33330/script/main/blox%20fruit))()
+    end)
+
+    anygamesection:NewButton("blox fruit chest farm", "leave your command for more script", function()
+        loadstring(game:HttpGet(https://raw.githubusercontent.com/m1nhmc33330/script/main/blox%20fruit%20chest%20farm))()
+    end)
